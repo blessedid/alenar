@@ -1,0 +1,5 @@
+host: "127.0.0.1"
+port: 3306
+data_base: "gallery"
+user_name: "user"
+password: "Pa$$w0rd"
